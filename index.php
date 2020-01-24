@@ -3,7 +3,7 @@
 <head>
 	<title>Upload File With AJAX</title>
 	<meta charset="UTF-8"/>
-	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"/>
 </head>
 <body>
 	<h1 class="text-primary text-center">Upload File With AJAX AND PHP.</h1>
@@ -26,6 +26,6 @@
 	<!--DIV to display message success-->
 	<div id="success" class="col-md-8"></div>
 	<script type="text/javascript" src="js/jquery.min.js"></script>
-	<script type="text/javascript" src="js/script.js"></script>
+	<script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
 </body>
 </html>
