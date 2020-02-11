@@ -25,7 +25,7 @@
 	<div id="error" class="col-md-8"></div>
 	<!--DIV to display message success-->
 	<div id="success" class="col-md-8"></div>
-	<script type="text/javascript" src="js/script.js"></script>
 	<script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript" src="js/script.js"></script>
 </body>
 </html>
